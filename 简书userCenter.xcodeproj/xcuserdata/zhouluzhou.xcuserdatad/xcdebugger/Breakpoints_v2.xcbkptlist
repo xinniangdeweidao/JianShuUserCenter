@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x7b80;&#x4e66;userCenter/MCViewController.m"
+            timestampString = "483243756.238081"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "225"
+            endingLineNumber = "225"
+            landmarkName = "-changeView:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x7b80;&#x4e66;userCenter/MCViewController.m"
+            timestampString = "486279142.633878"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "348"
+            endingLineNumber = "348"
+            landmarkName = "-scrollViewDidEndDecelerating:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x7b80;&#x4e66;userCenter/MCViewController.m"
+            timestampString = "490001544.803297"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "319"
+            endingLineNumber = "319"
+            landmarkName = "-scrollViewDidScroll:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MCViewController scrollViewDidScroll:]"
+                  moduleName = "&#x7b80;&#x4e66;userCenter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhouluzhou/Desktop/%E6%B5%8B%E8%AF%95/%E7%BB%83%E4%B9%A0/%E7%AE%80%E4%B9%A6userCenter/%E7%AE%80%E4%B9%A6userCenter/MCViewController.m"
+                  timestampString = "490001545.219784"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "319"
+                  endingLineNumber = "319"
+                  offsetFromSymbolStart = "625">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[MCViewController scrollViewDidScroll:]"
+                  moduleName = "&#x7b80;&#x4e66;userCenter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhouluzhou/Desktop/%E6%B5%8B%E8%AF%95/%E7%BB%83%E4%B9%A0/%E7%AE%80%E4%B9%A6userCenter/%E7%AE%80%E4%B9%A6userCenter/MCViewController.m"
+                  timestampString = "490001545.219931"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "319"
+                  endingLineNumber = "319"
+                  offsetFromSymbolStart = "748">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
